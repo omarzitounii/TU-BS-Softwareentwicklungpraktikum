@@ -1,0 +1,3 @@
+/Users/nazli/Desktop/Uni/5. Semester/SEP/lfds/Library/Mac_Version/cmake-build-debug/CMakeFiles/Mac_Version.dir
+/Users/nazli/Desktop/Uni/5. Semester/SEP/lfds/Library/Mac_Version/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nazli/Desktop/Uni/5. Semester/SEP/lfds/Library/Mac_Version/cmake-build-debug/CMakeFiles/rebuild_cache.dir

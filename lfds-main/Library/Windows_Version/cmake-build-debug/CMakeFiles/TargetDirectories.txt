@@ -1,0 +1,3 @@
+C:/SEP-TCS/lfds/Library/Windows_Version/cmake-build-debug/CMakeFiles/Windows_Version.dir
+C:/SEP-TCS/lfds/Library/Windows_Version/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/SEP-TCS/lfds/Library/Windows_Version/cmake-build-debug/CMakeFiles/rebuild_cache.dir

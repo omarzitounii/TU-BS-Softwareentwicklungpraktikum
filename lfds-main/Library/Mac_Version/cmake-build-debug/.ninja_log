@@ -1,0 +1,21 @@
+# ninja log v5
+2	54	1688638064345137215	CMakeFiles/Mac_Version.dir/Mac/src/Queue/main.c.o	f947af1c34876ddd
+1	61	1688638064352558947	CMakeFiles/Mac_Version.dir/Mac/src/Queue/lb_queue.c.o	3e19a3557a3b1913
+1	61	1688638064354353151	CMakeFiles/Mac_Version.dir/Mac/src/Queue/M_S_Queue.c.o	85a46b12087ed17f
+4	51	1688638113594243510	CMakeFiles/Mac_Version.dir/Mac/src/Stack/lb_stack.c.o	7164711dc815981c
+3	55	1688638113598741047	CMakeFiles/Mac_Version.dir/Mac/src/Set/lb_set.c.o	508da067b017366d
+2	49	1688638134811204464	CMakeFiles/Mac_Version.dir/Mac/src/Stack/lf_stack.c.o	1da5976e1547b72d
+1	47	1688638158045961449	CMakeFiles/Mac_Version.dir/Mac/src/Benchmark/main.c.o	f1399f750ac68709
+1	49	1688638158048059280	CMakeFiles/Mac_Version.dir/Mac/src/Set/harrislist.c.o	8f0a8e622104b9ff
+1	180	1688639061895411466	CMakeFiles/Mac_Version.dir/Mac/src/Benchmark/main.c.o	f1399f750ac68709
+1	152	1688639926718501037	CMakeFiles/Mac_Version.dir/Mac/src/Benchmark/main.c.o	f1399f750ac68709
+1	152	1688639926718724165	CMakeFiles/Mac_Version.dir/Mac/src/Stack/lf_stack.c.o	1da5976e1547b72d
+0	159	1688639926726150726	CMakeFiles/Mac_Version.dir/Mac/src/Benchmark/benchmark.c.o	ba7fce08369e3a2
+1	45	1688639988249860309	CMakeFiles/Mac_Version.dir/Mac/src/Set/harrislist.c.o	8f0a8e622104b9ff
+0	88	1688639995661225516	CMakeFiles/Mac_Version.dir/Mac/src/Set/main.c.o	5093736be43a8684
+1	38	1688640087503044123	CMakeFiles/Mac_Version.dir/Mac/src/Set/main.c.o	5093736be43a8684
+1	47	1688640125868384537	CMakeFiles/Mac_Version.dir/Mac/src/Benchmark/main.c.o	f1399f750ac68709
+2	38	1688640252885330453	CMakeFiles/Mac_Version.dir/Mac/src/Queue/main.c.o	f947af1c34876ddd
+1	43	1688640252890161597	CMakeFiles/Mac_Version.dir/Mac/src/Queue/M_S_Queue.c.o	85a46b12087ed17f
+1	39	1688641395323287165	CMakeFiles/Mac_Version.dir/Mac/src/Queue/main.c.o	f947af1c34876ddd
+1	43	1688641395326077200	CMakeFiles/Mac_Version.dir/Mac/src/Queue/M_S_Queue.c.o	85a46b12087ed17f
